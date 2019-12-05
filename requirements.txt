@@ -1,0 +1,7 @@
+Para rodar:
+instalar a lib do Pyro4
+pip install Pyro4
+
+abrir um terminal para o pyro e rodar: Pyro4-ns
+Em seguida outro terminal para o server registrar os canais: python server.py
+Abrir quantos clientes quiserem e iniciar a conversa.
